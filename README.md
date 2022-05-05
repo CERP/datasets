@@ -6,3 +6,4 @@ A topic-centric list of HQ open datasets
 - [Education](./topics/education)
 - [Energy](./topics/energy)
 - [Healthcare](./topics/healthcare)
+- [Population](./topics/population)
